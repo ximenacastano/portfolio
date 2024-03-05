@@ -1,6 +1,6 @@
 # ximenacastano.github.io
 
-:raising_hand_woman: Hi, I'm Morgan 
+:raising_hand_woman: Hi, I'm Ximena
 
 :woman_teacher: Former Teacher
 

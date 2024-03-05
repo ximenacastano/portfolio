@@ -6,7 +6,7 @@
 
 :woman_technologist: Current Instructional Designer / Curriculum Developer
 
-:sassy_woman: This repo hosts the code for [my portfolio website](https://ximenacastano.github.io). 
+:sassy_woman: This repo hosts the code for [my portfolio website](https://ximenacastano.github.io/portfolio). 
 
 ---
 
